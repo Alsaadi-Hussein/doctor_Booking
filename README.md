@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+this project was made only with Ai chatgpt.
 
 ## Getting Started
 
